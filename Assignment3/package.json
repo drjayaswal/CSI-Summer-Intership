@@ -1,0 +1,13 @@
+{
+  "name": "assignment4",
+  "version": "1.0.0",
+  "description": "Node.js assignment: Refactor callback code to Promises and Async/Await",
+  "main": "async-await-style/readFileAsync.js",
+  "scripts": {
+    "callback": "node callback-style/readFileCallback.js",
+    "promise": "node promise-style/readFilePromise.js",
+    "async": "node async-await-style/readFileAsync.js"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}

@@ -1,0 +1,23 @@
+👤 About Me
+
+Hi! I’m Dhruv Ratan Jayaswal,
+    a passionate and curious learner exploring the world of Node.js and backend development.
+    I enjoy understanding how things work under the hood and love building clean,
+        maintainable code.
+
+Currently, I’m undergoing training at Celebal Technologies,
+    and this project is part of my journey to mastering asynchronous programming in Node.js.
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+📚 Week 4 – Assignment 4
+
+Project Title: Refactoring Callback Code into Promises and Async/Await
+
+In this assignment, I worked on:
+	•	Understanding how asynchronous code works in Node.js using callbacks.
+	•	Refactoring callback-based logic into Promise-based syntax.
+	•	Further improving readability and structure by using Async/Await.
+	•	Implementing real-world file operations using Node.js fs module.
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻

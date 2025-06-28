@@ -21,6 +21,7 @@ The repository is structured into weekly assignments, each targeting specific as
 - **Week 3:** Builiding a project that demonstrates how to convert Node.js callback-based asynchronous code into modern Promise-based and Async/Await
 - **Week 4:** A Node.js server using Express that supports basic routing and middleware.
 - **Week 5:** A CRUD application using Express.js and MongoDB with Mongoose.
+- **Week 6:** A simple REST API using Node.js and Express that performs CRUD operations on a User resource.
 - **Upcoming Weeks:** Further assignments covering advanced topics and project enhancements
 
 ## 🛠️ Technologies Used

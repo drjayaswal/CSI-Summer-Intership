@@ -22,6 +22,7 @@ The repository is structured into weekly assignments, each targeting specific as
 - **Week 4:** A Node.js server using Express that supports basic routing and middleware.
 - **Week 5:** A CRUD application using Express.js and MongoDB with Mongoose.
 - **Week 6:** A simple REST API using Node.js and Express that performs CRUD operations on a User resource.
+- **Week 7:** A secure authentication system using JWT (JSON Web Tokens) and bcrypt for password hashing with protected routes.
 - **Upcoming Weeks:** Further assignments covering advanced topics and project enhancements
 
 ## 🛠️ Technologies Used
